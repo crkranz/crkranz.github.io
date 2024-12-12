@@ -3,7 +3,7 @@
 ## Projects:
 ### Project 1:
 - Description
-- Link
+- [Github Repository](https://github.com/cse330-fall-2024/module5-group-module5-508687-497967.git)
   
 ### Project 2:
 - Description
