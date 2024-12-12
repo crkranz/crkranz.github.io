@@ -1,3 +1,4 @@
 title: Riva Kranz
 description: Computer Science and Economics Student at Washington University in St. Louis
-themse: jekyll-theme-modernist
+#show_downloads: true
+theme: jekyll-theme-minimal
