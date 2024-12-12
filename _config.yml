@@ -1,5 +1,5 @@
 title: Riva Kranz
 logo: docs/DSC00711.jpg
 description: Computer Science and Economics Student at Washington University in St. Louis
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
