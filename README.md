@@ -1,14 +1,14 @@
 # Riva's Portfolio
 
 ## Projects:
-### Project 1:
+### Meal Points Stock Exchange Platform:
 - Description
 - [Github Repository](https://github.com/cse330-fall-2024/module5-group-module5-508687-497967.git)
   
-### Project 2:
+### AJAX Calendar Application:
 - Description
 - Link
 
-### Project 3:
+### Multi-room Chat Server:
 - Description
 - Link
