@@ -2,7 +2,7 @@
 
 ## Projects:
 ### Meal Points Stock Exchange Platform:
-- Description
+- This application provides an engaging platform for trading meal points, with features that allow users to place orders, negotiate privately, and stay informed about market trends. Real-time updates and private offers enhance the trading experience, making it easy for users to interact and manage their transactions efficiently.
 - [Github Repository](https://github.com/crkranz/AJAX-Calendar-Application.git)
   
 ### AJAX Calendar Application:
@@ -10,5 +10,5 @@
 - [Github Repository](https://github.com/crkranz/AJAX-Calendar-Application.git)
 
 ### Multi-room Chat Server:
-- This project enhances a multi-room chat application with advanced features to improve communication, user interaction, and room management. Key features include real-time user join/leave notifications, customizable emoji user avatars, emoji message buttons for fun communication, and the ability for users to create and manage private chat rooms. Room creators have administrative control, including the ability to kick or ban users, while users can send private messages to others in the same room. The application is designed for ease of use, with a visually appealing and intuitive interface that allows for seamless user engagement and efficient room management.
+- This project enhances a multi-room chat application with advanced features to improve communication, user interaction, and room management. Key features include real-time user join/leave notifications, customizable emoji user avatars, emoji message buttons for fun communication, and the ability for users to create and manage private chat rooms.
 - [Github Repository](https://github.com/crkranz/Multi-room-Chat-Server.git)
