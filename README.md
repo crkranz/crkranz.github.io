@@ -3,7 +3,7 @@
 ## Projects:
 ### Meal Points Stock Exchange Platform:
 - This application provides an engaging platform for trading meal points, with features that allow users to place orders, negotiate privately, and stay informed about market trends. Real-time updates and private offers enhance the trading experience, making it easy for users to interact and manage their transactions efficiently.
-- [Github Repository](https://github.com/crkranz/AJAX-Calendar-Application.git)
+- [Github Repository](https://github.com/crkranz/MealPoints-Stock-Exchange.git)
   
 ### AJAX Calendar Application:
 - This project enhances a calendar application with advanced features to improve event organization, sharing, and collaboration among users. Key features include event tagging with filtering capabilities, color-coded events, calendar and group event sharing, and an intuitive user interface.
